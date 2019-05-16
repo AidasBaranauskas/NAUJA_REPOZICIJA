@@ -57,7 +57,7 @@ int main()
     for(int i=a; i<=b; i++)//iki n^b
     {
         cout<<std::endl<<"10^"<<i;
-        //genFile(n, "10^"+std::to_string(i)+".txt");//failo pagrindinio generavimas. Šios dalies trukmė nematuojama
+        genFile(n, "10^"+std::to_string(i)+".txt");//failo pagrindinio generavimas. Šios dalies trukmė nematuojama
         uzduotis(n, "10^"+std::to_string(i));//likusi uzduoties dalis: matuojama, kaip ilgai skaitė iš failo ir rūšiavo
         n*=10;
     }
