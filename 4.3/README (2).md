@@ -41,4 +41,6 @@ Programa turi arba turėjo klaidą- kartais throw'indavo atminties priskyrimo er
 Tai įvoky 2 kartus, kelis bandymus paleisti programą iš eilės, bet kai bandžiau pakartot, net endless loop
 nepakartojo šių erorų. Tikiuosi, kad jums pasileis. Šiandien veikia, tai norėčiau manyt, kad ištaisiau.
 
-Uzduotis 3 nėra įkelta, bet jos reikalavimai išpildyti 4.3 (šioje) versijoje. Bandysiu įkelt 3.1 iki puse keturių. (2019 06 14 15:30)
+Uzduotis 3 nėra įkelta, bet jos reikalavimai išpildyti 4.3 (šioje) versijoje iki 1.5 (doxygen ir unit testing neatlikti). Bandysiu įkelt
+
+
